@@ -1,4 +1,4 @@
-# RE4M (Random Exercises for mathematics)
+# RE4M (**R**andom **E**xercises **for** **M**athematics)
 This is the application based on Python & Tkinter for outputting randomly math questions.  
 Math questions are included in "Questions".  
 Answers are included in "ANSWER.txt".
