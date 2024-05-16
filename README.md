@@ -3,7 +3,8 @@ This is the application based on Python & Tkinter for outputting randomly math q
 Math questions are included in "Questions".  
 Answers are included in "ANSWER.txt".
 
-## install modules
+## Installation
+### 1. Install modules
 The following modules are need for pyinstaller
 
     python -m venv .venv
@@ -12,14 +13,19 @@ The following modules are need for pyinstaller
     pip install opencv-contrib-python
 
 
-## script for pyinstaller
+### 2. Script for pyinstaller
 Prepare "RE4M.py" and "icon1.ico"  
 
 
     pyinstaller RE4M.py --onefile --noconsole --icon==icon1.ico
 
-## The explanation of files and directory
 
+### 3. Set paths for RE4M.exe & Questions
+Place RE4M.exe and Questions folder in "same" folders.   
+The suggestion is making shortcuts in Desktop.
+
+
+## The explanation of files and directory
 ### Questions 
 All questions for RE4M. All files are .png format
 
