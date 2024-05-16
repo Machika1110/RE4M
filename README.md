@@ -1,7 +1,7 @@
-# RE4M (Random Exercises for mathmatics)
+# RE4M (Random Exercises for mathematics)
 This is the application based on Python & Tkinter for outputting randomly math questions.  
-Math questions are included in "Questions."  
-Answers are included in "ANSWER.txt"
+Math questions are included in "Questions".  
+Answers are included in "ANSWER.txt".
 
 
 ## install modules
@@ -14,5 +14,5 @@ The following modules are need for pyinstaller
 
 
 ## script for pyinstaller
-
+Prepare "RE4M.py" and "icon1.ico"
     pyinstaller RE4M.py --onefile --noconsole --icon==icon1.ico
