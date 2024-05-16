@@ -14,5 +14,7 @@ The following modules are need for pyinstaller
 
 
 ## script for pyinstaller
-Prepare "RE4M.py" and "icon1.ico"
+Prepare "RE4M.py" and "icon1.ico"  
+
+
     pyinstaller RE4M.py --onefile --noconsole --icon==icon1.ico
